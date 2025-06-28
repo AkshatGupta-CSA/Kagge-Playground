@@ -8,5 +8,4 @@ The content will be updated regularly as I explore new competitions and refine m
 
 ## Repository Structure (Planned)
 
-Each project will be organized in its own subdirectory, typically following the structure below:
-
+Each project will be organized in its own subdirectory.
